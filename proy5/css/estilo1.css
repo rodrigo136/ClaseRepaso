@@ -1,0 +1,28 @@
+*
+{
+    margin: 20px;
+}
+body
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+h1
+{
+    padding: 10px;
+    border: 15px;
+    border-style: dotted;
+    color:rgb(255, 145, 0);
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+}
+p
+{
+    background-color:black;
+    color: goldenrod;
+    text-align: justify;
+}
+img
+{
+    width: 30%;
+}
